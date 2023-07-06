@@ -4,6 +4,7 @@ Pickachu
 Charmander
 Squirtle
 Jessie
+Meowth
 James
 Ash
 Brock
