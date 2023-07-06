@@ -1,3 +1,5 @@
 Pickachu
 Charmander
 Squirtle
+Jessie
+James
